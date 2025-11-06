@@ -1,5 +1,5 @@
 
-# mart-Daily-Travel-Clustering
+# Smart-Daily-Travel-Clustering
 
 A minimal, ready-to-merge **Smart Daily Travel Clustering** feature pack.
 
